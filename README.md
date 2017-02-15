@@ -1,4 +1,4 @@
-# CSS utility micro clearfix hack
+# CSS Utility: Micro Clearfix Hack
 Nicolas Gallagher famous micro clearfix
 
 http://nicolasgallagher.com/micro-clearfix-hack/
