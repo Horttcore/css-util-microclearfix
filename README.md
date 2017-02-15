@@ -9,4 +9,6 @@ http://nicolasgallagher.com/micro-clearfix-hack/
 ## Usage
 Add class `cf` to any html element with floated child elements
 
-```<div class="cf"></div>```
+```html
+<div class="cf"></div>
+```
