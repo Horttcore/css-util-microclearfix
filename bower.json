@@ -1,0 +1,25 @@
+{
+  "name": "css-util-microclearfix",
+  "homepage": "https://github.com/Horttcore/css-util-microclearfix",
+  "authors": [
+    "Ralf Hortt <me@horttcore.de>"
+  ],
+  "description": "Nicolas Gallagher famous micro clearfix",
+  "main": "cf.css",
+  "keywords": [
+    "css",
+    "clearfix"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Horttcore/css-util-microclearfix.git"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
